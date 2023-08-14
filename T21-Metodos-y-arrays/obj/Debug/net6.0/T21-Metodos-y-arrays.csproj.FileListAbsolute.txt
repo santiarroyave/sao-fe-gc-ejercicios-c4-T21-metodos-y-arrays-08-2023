@@ -1,0 +1,14 @@
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\bin\Debug\net6.0\T21-Metodos-y-arrays.exe
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\bin\Debug\net6.0\T21-Metodos-y-arrays.deps.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\bin\Debug\net6.0\T21-Metodos-y-arrays.runtimeconfig.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\bin\Debug\net6.0\T21-Metodos-y-arrays.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\bin\Debug\net6.0\T21-Metodos-y-arrays.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\obj\Debug\net6.0\T21-Metodos-y-arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\obj\Debug\net6.0\T21-Metodos-y-arrays.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\obj\Debug\net6.0\T21-Metodos-y-arrays.AssemblyInfo.cs
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\obj\Debug\net6.0\T21-Metodos-y-arrays.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\obj\Debug\net6.0\T21-Metodos-y-arrays.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\obj\Debug\net6.0\refint\T21-Metodos-y-arrays.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\obj\Debug\net6.0\T21-Metodos-y-arrays.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\obj\Debug\net6.0\T21-Metodos-y-arrays.genruntimeconfig.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023\T21-Metodos-y-arrays\obj\Debug\net6.0\ref\T21-Metodos-y-arrays.dll
