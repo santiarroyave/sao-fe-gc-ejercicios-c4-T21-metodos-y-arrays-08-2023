@@ -45,10 +45,17 @@ namespace T21_Metodos_y_arrays
             //Console.WriteLine("---------------------------");
             //Console.ReadLine();
 
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 6\n");
+            //Ejercicio6 ejercicio6 = new Ejercicio6();
+            //ejercicio6.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
             Console.WriteLine("---------------------------");
-            Console.WriteLine("Ejercicio 6\n");
-            Ejercicio6 ejercicio6 = new Ejercicio6();
-            ejercicio6.Inicia();
+            Console.WriteLine("Ejercicio 7\n");
+            Ejercicio7 ejercicio7 = new Ejercicio7();
+            ejercicio7.Inicia();
             Console.WriteLine("---------------------------");
             Console.ReadLine();
         }
