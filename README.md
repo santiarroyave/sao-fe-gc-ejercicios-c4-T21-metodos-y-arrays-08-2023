@@ -1,4 +1,7 @@
 # C4-T21 Métodos y Arrays
+## Carpeta con los archivos .cs
+[Ejercicios](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c4-T21-metodos-y-arrays-08-2023/tree/main/T21-Metodos-y-arrays)
+
 ## Enunciados
 1. Crea una aplicación de consola que nos calcule el área de un circulo, cuadrado o triangulo. Pediremos que figura queremos calcular su área y según lo introducido pedirá los valores necesarios para calcular el área. Crea un método por cada figura para calcular cada área, este devolverá un número real. Muestra el resultado por pantalla.
 
@@ -27,6 +30,13 @@
 15. Invertir los valores de un array y meterlos en otro array.
 16. Indicar si un array de números es capicua. Es capicua cuando coincide el primero y el ultimo elemento, el segundo y el penúltimo y así sucesivamente.
 17. Crea un array de 10 posiciones de números con valores pedidos por teclado. Muestra por consola el índice y el valor al que corresponde. Haz dos métodos, uno para rellenar valores y otro para mostrar.
+18. Crea un array de números donde le indicamos por teclado el tamaño del array, rellenaremos el array con números aleatorios entre 0 y 9, al final muestra por pantalla el valor de cada posición y la suma de todos los valores. Haz un método para rellenar el array (que tenga como parámetros los números entre los que tenga que generar), para mostrar el contenido y la suma del array y un método privado para generar número aleatorio (lo puedes usar para otros ejercicios).
+19. Crea un array de números de un tamaño pasado por teclado, el array contendrá números aleatorios primos entre los números deseados, por último nos indicar cual es el mayor de todos. Haz un método para comprobar que el número aleatorio es primo, puedes hacer todos lo métodos que necesites.
+20. Crea dos arrays de números con una posición pasado por teclado.
+Uno de ellos estará rellenado con números aleatorios y el otro apuntara al array anterior, después crea un nuevo array con el primer array (usa de nuevo new con el primer array) con el mismo tamaño que se ha pasado por teclado, rellenalo de nuevo con números aleatorios.
+Después, crea un método que tenga como parámetros, los dos arrays y devuelva uno nuevo con la multiplicación de la posición 0 del array1 con el del array2 y así sucesivamente. Por último, muestra el contenido de cada array.
+21. Crea un array de números de un tamaño pasado por teclado, el array contendrá números aleatorios entre 1 y 300 y mostrar aquellos números que acaben en un dígito que nosotros le indiquemos por teclado (debes controlar que se introduce un numero correcto), estos deben guardarse en un nuevo array.
+Por ejemplo, en un array de 10 posiciones e indicamos mostrar los números acabados en 5, podría salir 155, 25, etc.
 
 ## Apuntes
 ### Métodos
