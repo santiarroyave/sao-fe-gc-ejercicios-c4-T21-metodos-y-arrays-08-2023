@@ -17,6 +17,16 @@
     -  0.86 libras es un 1 €
     -  1.28611 $ es un 1 €
     -  129.852 yenes es un 1 €
+8. Crear un array de números con la longitud que quieras e introducir en cada elemento el valor su posición.Muestra el contenido.
+9. Crear un array de numeros con la longitud que quieras y pedir al usuario que en cada elemento inserte un numero. Muestra el contenido.
+10. Hacer la tabla de un numero pedido por teclado hasta el 10. (5*0, 5*1 … 5*10). Muestra el contenido.
+11. Crear un array de 10 posiciones, añadir el valor en cada una de sus posiciones y sacar la suma total.
+12. Crear un array de 10 posiciones, añadir el valor en cada una de sus posiciones y sacar la media.
+13. Rellenar un array de longitud pedida por el usuario con números aleatorios entre 1 y 10.
+14. Dado el anterior array, pedir al usuario un numero e indicarle si existe en el array.
+15. Invertir los valores de un array y meterlos en otro array.
+16. Indicar si un array de números es capicua. Es capicua cuando coincide el primero y el ultimo elemento, el segundo y el penúltimo y así sucesivamente.
+17. Crea un array de 10 posiciones de números con valores pedidos por teclado. Muestra por consola el índice y el valor al que corresponde. Haz dos métodos, uno para rellenar valores y otro para mostrar.
 
 ## Apuntes
 ### Métodos
@@ -43,6 +53,9 @@ abstract class Motorcycle
     int[] array1 = new int[5];
     int[] array2 = {1, 2, 3, 4, 5};
     int[] array3 = new int[] {1, 2, 3, 4, 5};
+
+    // Mostrar valores
+    Console.WriteLine(string.Join(", ", array2));
     ```
 - Matrices multidimensionales
     ```c#

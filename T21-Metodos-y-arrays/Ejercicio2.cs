@@ -21,20 +21,19 @@ namespace T21_Metodos_y_arrays
             Console.WriteLine("Ahora indica el valor máximo");
             int max = int.Parse(Console.ReadLine());
 
-            Generador(cantidad, min, max);
-        }
-
-        private void Generador(int cantidad, int min, int max)
-        {
-            Random random = new Random();
             List<int> list = new List<int>();
-
             for (int i = 0; i < cantidad; i++)
             {
-                list.Add(random.Next(min, max + 1));
+                list.Add(Generador(min,max));
             }
 
             Console.WriteLine("\nLista de números aleatorios:\n{0}", string.Join(", ", list));
+        }
+
+        private int Generador(int min, int max)
+        {
+            Random random = new Random();
+            return random.Next(min, max + 1);
         }
     }
 }

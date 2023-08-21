@@ -52,10 +52,80 @@ namespace T21_Metodos_y_arrays
             //Console.WriteLine("---------------------------");
             //Console.ReadLine();
 
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 7\n");
+            //Ejercicio7 ejercicio7 = new Ejercicio7();
+            //ejercicio7.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 8\n");
+            //Ejercicio8 ejercicio8 = new Ejercicio8();
+            //ejercicio8.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 9\n");
+            //Ejercicio9 ejercicio9 = new Ejercicio9();
+            //ejercicio9.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 10\n");
+            //Ejercicio10 ejercicio10 = new Ejercicio10();
+            //ejercicio10.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 11\n");
+            //Ejercicio11 ejercicio11 = new Ejercicio11();
+            //ejercicio11.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 12\n");
+            //Ejercicio12 ejercicio12 = new Ejercicio12();
+            //ejercicio12.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 13\n");
+            //Ejercicio13 ejercicio13 = new Ejercicio13();
+            //ejercicio13.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 14\n");
+            //Ejercicio14 ejercicio14 = new Ejercicio14();
+            //ejercicio14.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 15\n");
+            //Ejercicio15 ejercicio15 = new Ejercicio15();
+            //ejercicio15.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
+            //Console.WriteLine("---------------------------");
+            //Console.WriteLine("Ejercicio 16\n");
+            //Ejercicio16 ejercicio16 = new Ejercicio16();
+            //ejercicio16.Inicia();
+            //Console.WriteLine("---------------------------");
+            //Console.ReadLine();
+
             Console.WriteLine("---------------------------");
-            Console.WriteLine("Ejercicio 7\n");
-            Ejercicio7 ejercicio7 = new Ejercicio7();
-            ejercicio7.Inicia();
+            Console.WriteLine("Ejercicio 17\n");
+            Ejercicio17 ejercicio17 = new Ejercicio17();
+            ejercicio17.Inicia();
             Console.WriteLine("---------------------------");
             Console.ReadLine();
         }
